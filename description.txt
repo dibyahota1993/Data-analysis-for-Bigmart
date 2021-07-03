@@ -1,0 +1,6 @@
+This is the data for Bigmart products. Which having the datas like Item_Identifier,Item_Weight,
+Item_Fat_Content, Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Establishment_Year,
+Outlet_Size,Outlet_Location_Type,Outlet_Type,Item_Outlet_Sales etc in columns. It contains the data
+for 8523 rows and 10 columns.
+
+
